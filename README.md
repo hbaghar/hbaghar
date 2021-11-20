@@ -7,4 +7,4 @@
 - 📫 How to reach me: [email ✉️](mailto:hbaghar@uw.edu)
 - 💻 Check out my [website](hbaghar.github.io)
 
-![image](https://user-images.githubusercontent.com/19759187/142743634-a4dc5792-8396-4816-afca-6f69dcaf508e.png)
+[![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaghar)](https://github.com/hbaghar/github-readme-stats)
