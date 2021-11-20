@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on getting a Microsoft Azure Certification
 - 🌱 I’m currently learning Tableau
 - 🤔 I’m looking for help with 2022 Summer Internship Opportunities in the US
-- 📫 How to reach me: [email](mailto:hbaghar@uw.edu)
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [email ✉️](mailto:hbaghar@uw.edu)
+- 💻 Check out my [website](hbaghar.github.io)
