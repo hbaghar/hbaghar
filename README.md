@@ -1,8 +1,9 @@
-### Hi there 👋
-I'm Hriday, an electronics engineer turned data scientist, currently pursuing my MS in Data Science at University of Washington, Seattle.
+### Hi there 👋 I'm Hriday
 
-- 🔭 I’m currently working on getting a Microsoft Azure Certification
-- 🌱 I’m currently learning Tableau
+* * *
+
+<!-- - 🔭 I’m currently working on-->
+- 🌱 I’m currently learning Tableau and Azure
 - 🤔 I’m looking for help with 2022 Summer Internship Opportunities in the US
 - 📫 How to reach me: [email ✉️](mailto:hbaghar@uw.edu)
 <!-- - 💻 Check out my [website](hbaghar.github.io)-->
