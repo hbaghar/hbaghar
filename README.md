@@ -7,4 +7,4 @@ I'm Hriday, an electronics engineer turned data scientist, currently pursuing my
 - 📫 How to reach me: [email ✉️](mailto:hbaghar@uw.edu)
 <!-- - 💻 Check out my [website](hbaghar.github.io)-->
 
-[![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaghar&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaghar&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
