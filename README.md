@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hriday
+### Hi there, I'm Hriday 👋
 
 * * *
 
