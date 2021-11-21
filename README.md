@@ -5,7 +5,7 @@
 <!-- - 🔭 I’m currently working on-->
 - 🌱 I’m currently learning Tableau and Azure
 - 🤔 I’m looking for help with 2022 Summer Internship Opportunities in the US
-- 📫 How to reach me: [email ✉️](mailto:hbaghar@uw.edu), [LinkedIn 🖥](www.linkedin.com/in/hridaybaghar)
+- 📫 How to reach me: [email ✉️](mailto:hbaghar@uw.edu) , [LinkedIn 🖥](https://www.linkedin.com/in/hridaybaghar)
 <!-- - 💻 Check out my [website](hbaghar.github.io)-->
 
 ### Skills
