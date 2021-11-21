@@ -26,4 +26,4 @@
 - Neural Networks
 - Clustering
 
-[![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaghar&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaghar&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
