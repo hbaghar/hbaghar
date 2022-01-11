@@ -27,3 +27,4 @@
 - Clustering
 
 [![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaghar&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbaghar&layout=compact&&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
