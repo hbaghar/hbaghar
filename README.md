@@ -3,10 +3,10 @@
 * * *
 
 <!-- - 🔭 I’m currently working on-->
-- 🌱 I’m currently learning Tableau and Azure
+<!-- - 🌱 I’m currently learning Tableau and Azure -->
 - 🤔 I’m looking for help with 2022 Summer Internship Opportunities in the US
 - 📫 How to reach me: [email ✉️](mailto:hbaghar@uw.edu) , [LinkedIn 🖥](https://www.linkedin.com/in/hridaybaghar)
-<!-- - 💻 Check out my [website](hbaghar.github.io)-->
+- 💻 Check out my [website](hbaghar.github.io)
 
 ### Skills
 **Programming Languages**
@@ -27,4 +27,3 @@
 - Clustering
 
 [![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaghar&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)  
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbaghar&layout=compact&&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
