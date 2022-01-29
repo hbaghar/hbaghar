@@ -3,7 +3,7 @@
 * * *
 
 <!-- - 🔭 I’m currently working on-->
-<!-- - 🌱 I’m currently learning Tableau and Azure -->
+- 🌱 I’m currently learning NLP and working on my ML skills
 - 🤔 I’m looking for help with 2022 Summer Internship Opportunities in the US
 - 📫 How to reach me: [email ✉️](mailto:hbaghar@uw.edu) , [LinkedIn 🖥](https://www.linkedin.com/in/hridaybaghar)
 - 💻 Check out my [website](https://hbaghar.github.io)
@@ -23,7 +23,5 @@
 - Decision Trees, Random Forests
 - Hypothesis Testing
 - SVMs
-- Neural Networks
-- Clustering
 
 [![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaghar&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)  
