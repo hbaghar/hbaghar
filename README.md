@@ -14,5 +14,3 @@
 - SQL _(PostgreSQL, MySQL, SQLite, Teradata, Redhsift)_
 - Cloud _(AWS, Azure, Databricks)_
 - Tableau
-
-[![Hriday's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbaghar&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)  
